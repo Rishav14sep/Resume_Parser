@@ -7,7 +7,7 @@ This project demonstrates how transformer-based large language models can conver
 
  Features
 
-📄 Upload resumes (PDF & DOCX)
+ Upload resumes (PDF & DOCX)
  Extracts key information:
 
 Name, Email, Phone
